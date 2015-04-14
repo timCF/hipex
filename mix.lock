@@ -1,0 +1,9 @@
+%{"exactor": {:git, "git://github.com/sasa1977/exactor.git", "0467f8100bc735405d597dbf94996195eb31e0b6", [tag: "0467f8100bc735405d597dbf94996195eb31e0b6"]},
+  "extask": {:git, "git://github.com/timCF/extask.git", "691cc1a515750bead8b81ed6c13cddbcf115d754", []},
+  "exutils": {:git, "git://github.com/timCF/exutils.git", "93ced8a79d45146e2eab742e5553af816337ecea", []},
+  "hackney": {:hex, :hackney, "1.1.0"},
+  "hashex": {:git, "git://github.com/timCF/hashex.git", "cc6b4307daa1ab18c94cdd33bf3cb8a3dab28b96", []},
+  "httpoison": {:git, "git://github.com/edgurgel/httpoison.git", "3bab6035a2ba53cc708a9c659f59a3880d45f2d7", []},
+  "idna": {:hex, :idna, "1.0.2"},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "49f335492aca5516495199dd81dd18b845ebaa69", []},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.4"}}
